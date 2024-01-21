@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>23c-springboot3-jdbc</name>
 	<description>Spring Data JDBC with the Oracle Database 23c for Java Developers - Getting Started Guide</description>
-	<url>https://juarezjunior.medium.com/1c4640fc8d27</url>
+	<url>https://juarezjunior.medium.com/spring-data-jdbc-with-the-oracle-database-23c-for-java-developers-getting-started-guide-1c4640fc8d27</url>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
