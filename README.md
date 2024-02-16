@@ -1,2 +1,1 @@
-# 23c-springboot3-jdbc
-Spring Data JDBC with the Oracle Database 23c for Java Developers - Getting Started Guide
+[Spring Data JDBC with the Oracle Database 23c for Java Developers - Getting Started Guide](https://medium.com/oracledevs/spring-data-jdbc-with-the-oracle-database-23c-for-java-developers-getting-started-guide-1c4640fc8d27)
